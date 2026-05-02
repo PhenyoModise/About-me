@@ -1,12 +1,12 @@
 # Hi, I'm Phenyo Modise! 👋  
 
-### 🎓 Graduate | ☁️ AWS re/Start Student | 🛡️ Aspiring Cloud Security Engineer  
+### 🎓 Graduate | ☁️ AWS re/Start Graduate | 🛡️ Aspiring Cloud Security Engineer  
 
 I’m a recent IT Systems Development graduate currently on a journey to master the Cloud world. I’m a participant in the *AWS re/Start* program, where I’m moving from "Hello World" to "Secure Infrastructure." I’m building a strong foundation in Linux, Python, and AWS, with a specific interest in how to keep data safe in the cloud.
 
 ---
 
-### 📚 What I'm Learning Right Now
+### 📚 What I've Learnt through AWS re/Start
 * *The AWS Basics:* Understanding how S3, EC2, and VPCs work together.
 * *Security First:* Learning how to manage users (IAM) and secure networks (Security Groups/NACLs).
 * *The Command Line:* Getting comfortable with Linux and automation via Bash.
